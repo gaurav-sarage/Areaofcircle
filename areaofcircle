@@ -1,0 +1,12 @@
+#program to find area of a circle 
+
+pi = 3.14159
+r = float(input("Enter the value of radius:"))
+area = pi*r*r
+print(area)
+
+
+"""
+the output is: Enter the value of radius:1.1
+3.8013239000000003
+"""
